@@ -1,0 +1,10 @@
+﻿  proyecto 1B.cpp
+D:\TEC & UCR\TEC\Semestre II\Algoritmos y Estructuras\proyectos\proyecto 1\1B\proyecto 1B\proyecto 1B.cpp(13,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\TEC & UCR\TEC\Semestre II\Algoritmos y Estructuras\proyectos\proyecto 1\1B\proyecto 1B\proyecto 1B.cpp(15,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\TEC & UCR\TEC\Semestre II\Algoritmos y Estructuras\proyectos\proyecto 1\1B\proyecto 1B\proyecto 1B.cpp(16,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\TEC & UCR\TEC\Semestre II\Algoritmos y Estructuras\proyectos\proyecto 1\1B\proyecto 1B\proyecto 1B.cpp(17,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\TEC & UCR\TEC\Semestre II\Algoritmos y Estructuras\proyectos\proyecto 1\1B\proyecto 1B\proyecto 1B.cpp(18,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\TEC & UCR\TEC\Semestre II\Algoritmos y Estructuras\proyectos\proyecto 1\1B\proyecto 1B\cargaPadron.h(1,1): warning C4335: Mac file format detected: please convert the source file to either DOS or UNIX format
+D:\TEC & UCR\TEC\Semestre II\Algoritmos y Estructuras\proyectos\proyecto 1\1B\proyecto 1B\cargaPadron.h(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\TEC & UCR\TEC\Semestre II\Algoritmos y Estructuras\proyectos\proyecto 1\1B\proyecto 1B\proyecto 1B.cpp(62,22): warning C4101: 'listMaestra': unreferenced local variable
+  proyecto 1B.vcxproj -> D:\TEC & UCR\TEC\Semestre II\Algoritmos y Estructuras\proyectos\proyecto 1\1B\proyecto 1B\x64\Debug\proyecto 1B.exe
